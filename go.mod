@@ -19,8 +19,8 @@ require (
 	github.com/vincent-petithory/dataurl v1.0.0
 	github.com/vmware/vmw-guestinfo v0.0.0-20170707015358-25eff159a728
 	github.com/vmware/vmw-ovflib v0.0.0-20170608004843-1f217b9dc714
-	golang.org/x/net v0.0.0-20200602114024-627f9648deb9
+	golang.org/x/net v0.23.0
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	golang.org/x/sys v0.0.0-20200610111108-226ff32320da
+	golang.org/x/sys v0.18.0
 	google.golang.org/api v0.26.0
 )
